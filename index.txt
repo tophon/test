@@ -1,4 +1,6 @@
 git demo
 git add
 git delete is
+git remote add origin git@github.com:tophon/test.git
+git remote add origin git@github.com:tophon/tets.git
 git push origin master
